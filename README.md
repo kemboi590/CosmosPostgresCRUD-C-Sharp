@@ -1,1 +1,1 @@
-# Connecting Azure Cosmos DB to C# SDK
+# Connecting Azure Cosmos DB For Postgres to C# SDK
